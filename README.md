@@ -25,7 +25,7 @@ https://github.com/Kuwar20/Mern-frontend-P-3/assets/66473902/89a3b377-f246-41fd-
 
 ## Installation & Executing the website locally
 
-* Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install Auth App. - Installation
+* Use the package manager [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) to install Real Estate App - Installation
 
 ```bash
 npm install -g npm
